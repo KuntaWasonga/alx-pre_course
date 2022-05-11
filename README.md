@@ -1,1 +1,1 @@
-My first readme
+npm install update-readme --save
